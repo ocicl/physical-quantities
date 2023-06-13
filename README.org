@@ -1,0 +1,10 @@
+* physical-quantities
+
+A common lisp library that provides a numeric type with optional unit and/or uncertainty for computations with automatic error propagation.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mrossini-ethz/physical-quantities.git   |
+| commit  | 0c378b7  |
+| systems | physical-quantities |
+|---------+-------------------------------------------|
+
