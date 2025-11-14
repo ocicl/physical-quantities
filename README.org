@@ -4,6 +4,6 @@ A common lisp library that provides a numeric type with optional unit and/or unc
 
 |---------+--------------------------------------------------------------|
 | source  | git:https://github.com/mrossini-ethz/physical-quantities.git |
-| commit  | db633c3                                                      |
+| commit  | 46d5722                                                      |
 | systems | physical-quantities                                          |
 |---------+--------------------------------------------------------------|
